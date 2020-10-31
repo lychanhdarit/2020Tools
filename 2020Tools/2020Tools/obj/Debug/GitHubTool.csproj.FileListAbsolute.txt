@@ -1,0 +1,10 @@
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\bin\Debug\GitHub.exe.config
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\bin\Debug\GitHub.exe
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\bin\Debug\GitHub.pdb
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\obj\Debug\GitHubTool.csprojAssemblyReference.cache
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\obj\Debug\_2020Tools.GitHub.resources
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\obj\Debug\_2020Tools.Properties.Resources.resources
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\obj\Debug\GitHubTool.csproj.GenerateResource.cache
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\obj\Debug\GitHubTool.csproj.CoreCompileInputs.cache
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\obj\Debug\GitHub.exe
+H:\2020 DATA\PROJECT\2020Tools\2020Tools\2020Tools\obj\Debug\GitHub.pdb
